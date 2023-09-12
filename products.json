@@ -1,0 +1,68 @@
+[
+	{
+		"title": "Aspiradora",
+		"description": "amarillo",
+		"code": "1234",
+		"price": "30000",
+		"status": "true",
+		"stock": "23",
+		"category": "hogar",
+		"thumbnails": "asd.com",
+		"id": 3
+	},
+	{
+		"title": "Lavadora",
+		"description": "Linea blanca",
+		"code": "as45",
+		"price": "120000",
+		"status": "true",
+		"stock": "35",
+		"category": "hogar",
+		"thumbnails": "eee.com",
+		"id": 4
+	},
+	{
+		"title": "Refrigerador",
+		"description": "Linea blanca",
+		"code": "34hbsd",
+		"price": "50000",
+		"status": "true",
+		"stock": "20",
+		"category": "hogar",
+		"thumbnails": "fds.com",
+		"id": 5
+	},
+	{
+		"title": "Ventilador",
+		"description": "Blanco y metálico",
+		"code": "56463434f",
+		"price": "50000",
+		"status": "true",
+		"stock": "10",
+		"category": "Hogar",
+		"thumbnails": "ventilador.com",
+		"id": 6
+	},
+	{
+		"title": "Alfombra",
+		"description": "colores",
+		"code": "asasd3333",
+		"price": "120000",
+		"status": "true",
+		"stock": "60",
+		"category": "Hogar",
+		"thumbnails": "alfombra.com",
+		"id": 7
+	},
+	{
+		"title": "Jarra",
+		"description": "colores y rayas",
+		"code": "ds4677",
+		"price": "500",
+		"status": "true",
+		"stock": "22",
+		"category": "Hogar",
+		"thumbnails": "tazon.com",
+		"id": 8
+	}
+]
